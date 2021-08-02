@@ -93,8 +93,8 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- |
 
 ## Core Systems
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
+| Course | Status |
+-------- | ------ |
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | --- |
 [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | --- |
 [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | --- |
