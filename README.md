@@ -38,18 +38,62 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Algorithmic Thinking (Part 1) ((Fundamentals of Computing))](https://www.coursera.org/learn/algorithmic-thinking-1?specialization=computer-fundamentals)| --- |
 [Algorithmic Thinking (Part 2) (Fundamentals of Computing)](https://www.coursera.org/learn/algorithmic-thinking-2?specialization=computer-fundamentals) | --- |
 
-## Math Preparation
 
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Algebra I](https://www.khanacademy.org/math/algebra) | --- | --- | ---
-[Algebra II](https://www.khanacademy.org/math/algebra2) | --- | --- | ---
-[Trigonometry](https://www.khanacademy.org/math/trigonometry) | --- | --- | ---
-[Precalculus](https://www.khanacademy.org/math/precalculus) | --- | --- | ---
-[Precalculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
-[Calculus I](https://www.khanacademy.org/math/calculus-1) | --- | --- | ---
-[Calculus II](https://www.khanacademy.org/math/calculus-2) | --- | --- | ---
+# Core Computer Science
+| Course | Status | 
+-------- | ------ |
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | --- |
+[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | --- |
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | --- |
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- |
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- |
+
+# Core Math
+## Calculus
+| Course | Status | 
+-------- | ------ |
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | --- |
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | --- |
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | --- | 
+
+## Linear Algebra
+| Course | Status | 
+-------- | ------ |
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | --- |
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | --- |
+
+## Set Theory
+| Course | Status | 
+-------- | ------ |
+[Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | --- |
+
+## Logic
+
+| Course | Status | 
+-------- | ------ |
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | --- |
+
+## Probability
+| Course | Status | 
+-------- | ------ |
+[Probability](https://www.edx.org/course/introduction-to-probability-0) | --- |
+
+## Discrete Mathematics
+| Course | Status | 
+-------- | ------ |
+[Mathematical Thinking in Computer Science (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | --- |
+[Combinatorics and Probability (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | --- |
+[Introduction to Graph Theory (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | --- |
+[Number Theory and Cryptography (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | --- |
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | --- |
+
+
+
+
+
+
+
+
 
 ## Introduction to CS Tools
 
@@ -57,12 +101,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 -------- | ------ | ---------- | ----------- | ----------
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- | --- | --- 
 
-## Programming
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | --- | --- |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
 
 ## Theory
 
@@ -77,36 +115,10 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | --- | --- |---
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | --- | --- |---
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | Pending | --- | --- |---
+
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
-
-## Math
-
-### Calculus
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | --- | --- | ---
-
-### Linear Algebra
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Pending | --- | --- | ---
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | Pending | --- | --- | ---
-
-### Logic
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | --- | --- | ---
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | --- | --- | ---
 
 ### Probability
 
