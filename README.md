@@ -87,26 +87,30 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Number Theory and Cryptography (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | --- |
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | --- |
 
+# Computer Science Tools
+| Course | Status | 
+-------- | ------ |
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- |
 
-
-
-
-
-
-
-
-## Introduction to CS Tools
-
+# Core Systems
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- | --- | --- 
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | --- |
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | --- |
+[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | --- |
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | --- |
 
 
-## Theory
+# Core Theory
 
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | --- | --- | ---
+| Course | Status |
+-------- | ------ |
+[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | --- |
+[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- |
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Algorithms Specialization)](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms) | --- |
+[Graph Search, Shortest Paths, and Data Structures (Algorithms Specialization)](https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms) | --- |
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming (Algorithms Specialization)](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | --- |
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them ((Algorithms Specialization))](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | --- |
 
 
 # Intermediate Courses
@@ -127,25 +131,12 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | --- | --- | ---
 
-## Systems
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Pending | --- | --- | ---
-[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Pending | --- | --- | ---
-[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Pending | --- | --- | ---
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | Pending | --- | --- | ---
-
 ## Theory
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | --- | --- | --- | ---
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | --- | --- | ---
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | --- | --- | ---
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | --- | --- | ---
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | --- | --- | ---
+
 
 ## Applications
 
