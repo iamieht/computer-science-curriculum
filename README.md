@@ -146,7 +146,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- |
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- |
 
-## Advanced programming
+## Advanced Programming
 | Course | Status |
 -------- | ------ |
 [Parallel Programming](https://www.coursera.org/learn/parprog1) | --- |
@@ -157,6 +157,19 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- |
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | --- |
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | --- |
+
+## Advanced Systems
+| Course | Status |
+-------- | ------ |
+[Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | --- |
+[Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | --- |
+[Khan Academy - Physics](https://www.khanacademy.org/science/physics) | --- |
+[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) | --- |
+[Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | --- |
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | --- |
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | --- |
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | --- |
+
 
 # Intermediate Courses
 
