@@ -112,6 +112,15 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming (Algorithms Specialization)](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | --- |
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them ((Algorithms Specialization))](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | --- |
 
+# Core Security
+| Course | Status |
+-------- | ------ |
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | --- |
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- |
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- |
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- |
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- |
+
 
 # Intermediate Courses
 
@@ -164,16 +173,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) | --- | --- | ---
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | --- | --- | ---
 
-
-## Security
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | --- | --- | ---
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- | --- | ---
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- | --- | ---
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- | --- | ---
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- | --- | ---
 
 ## Advanced programming
 
