@@ -31,7 +31,12 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Python Data Representations (Introduction to Scripting in Python - Course 2)](https://www.coursera.org/learn/python-representation?specialization=introduction-scripting-in-python) | --- |
 [Python Data Analysis (Introduction to Scripting in Python - Course 3)](https://www.coursera.org/learn/python-analysis?specialization=introduction-scripting-in-python) | --- |
 [Python Data Visualization (Introduction to Scripting in Python - Course 4)](https://www.coursera.org/learn/python-visualization?specialization=introduction-scripting-in-python) | --- |
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
+[An Introduction to Interactive Programming in Python (Part 1) (Fundamentals of Computing)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | --- |
+[An Introduction to Interactive Programming in Python (Part 2) (Fundamentals of Computing)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals)| --- |
+[Principles of Computing (Part 1) (Fundamentals of Computing)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals)| --- |
+[Principles of Computing (Part 2) (Fundamentals of Computing)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals)| --- |
+[Algorithmic Thinking (Part 1) ((Fundamentals of Computing))](https://www.coursera.org/learn/algorithmic-thinking-1?specialization=computer-fundamentals)| --- |
+[Algorithmic Thinking (Part 2) (Fundamentals of Computing)](https://www.coursera.org/learn/algorithmic-thinking-2?specialization=computer-fundamentals) | --- |
 
 ## Math Preparation
 
