@@ -146,6 +146,18 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- |
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- |
 
+## Advanced programming
+| Course | Status |
+-------- | ------ |
+[Parallel Programming](https://www.coursera.org/learn/parprog1) | --- |
+[Compilers](https://www.edx.org/course/compilers) | --- |
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | --- |
+[Learn Prolog Now!](http://www.learnprolognow.org/lpnpage.php?pageid=online) | --- |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | --- |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | --- |
+[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | --- |
+[LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | --- |
+
 # Intermediate Courses
 
 ## Programming
