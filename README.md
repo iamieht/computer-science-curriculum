@@ -121,6 +121,16 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- |
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- |
 
+# Core Applications
+| Course | Status |
+-------- | ------ |
+[Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | --- |
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | --- |
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | --- |
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | --- |
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | --- |
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | --- |
+[Cryptography I](https://www.coursera.org/course/crypto) | --- |
 
 # Intermediate Courses
 
