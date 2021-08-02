@@ -48,51 +48,47 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | --- |
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | --- |
 
-# Core Math
-## Calculus
+## Core Math
+### Calculus
 | Course | Status | 
 -------- | ------ |
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | --- |
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | --- |
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | --- | 
 
-## Linear Algebra
+### Linear Algebra
 | Course | Status | 
 -------- | ------ |
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | --- |
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | --- |
 
-## Set Theory
+### Set Theory
 | Course | Status | 
 -------- | ------ |
 [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | --- |
 
-## Logic
+### Logic
 
 | Course | Status | 
 -------- | ------ |
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | --- |
 
-## Probability
+### Probability
 | Course | Status | 
 -------- | ------ |
 [Probability](https://www.edx.org/course/introduction-to-probability-0) | --- |
 
-## Discrete Mathematics
+### Discrete Mathematics
 | Course | Status | 
 -------- | ------ |
-[Mathematical Thinking in Computer Science (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | --- |
-[Combinatorics and Probability (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | --- |
-[Introduction to Graph Theory (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | --- |
-[Number Theory and Cryptography (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | --- |
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | --- |
 
-# Computer Science Tools
+## Computer Science Tools
 | Course | Status | 
 -------- | ------ |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- |
 
-# Core Systems
+## Core Systems
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | --- |
@@ -101,7 +97,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | --- |
 
 
-# Core Theory
+## Core Theory
 
 | Course | Status |
 -------- | ------ |
@@ -112,7 +108,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming (Algorithms Specialization)](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | --- |
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them ((Algorithms Specialization))](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | --- |
 
-# Core Security
+## Core Security
 | Course | Status |
 -------- | ------ |
 [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | --- |
@@ -121,7 +117,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- |
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- |
 
-# Core Applications
+## Core Applications
 | Course | Status |
 -------- | ------ |
 [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | --- |
@@ -131,6 +127,20 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | --- |
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | --- |
 [Cryptography I](https://www.coursera.org/course/crypto) | --- |
+
+# Advanced Computer Science
+## Advanced Math
+| Course | Status |
+-------- | ------ |
+[College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | -- |
+[Mathematical Thinking in Computer Science (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | --- |
+[Combinatorics and Probability (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | --- |
+[Introduction to Graph Theory (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | --- |
+[Number Theory and Cryptography (Introduction to Discrete Mathematics)](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | --- |
+[Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | --- |
+
+## Advanced Security
+
 
 # Intermediate Courses
 
@@ -157,31 +167,8 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
 
 
-## Applications
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Relational Database Systems](https://www.coursera.org/learn/relational-database) | --- | --- | ---
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | --- | --- | --- | ---
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | --- | --- | ---
-[Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | --- | --- | ---
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
-[Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
-
 # Advanced Courses
 
-## Math
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | Pending | --- | --- | ---
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | Pending | --- | --- | ---
-[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | Pending | --- | --- | ---
-[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | Pending | --- | --- | ---
-[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | Pending | --- | --- | ---
-[Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Pending | --- | --- | ---
-[Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) | --- | --- | ---
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | --- | --- | ---
 
 
 ## Advanced programming
