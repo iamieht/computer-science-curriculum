@@ -140,7 +140,11 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | --- |
 
 ## Advanced Security
-
+| Course | Status |
+-------- | ------ |
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | --- |
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- |
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- |
 
 # Intermediate Courses
 
