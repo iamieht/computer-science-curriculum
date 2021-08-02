@@ -2,24 +2,35 @@
 
 This Computer Science Curriculum is a guide, based on a few [resources](#resources) found on the web, that I am using to learn Computer Science on my own and to log my learning progress.
 
+# Learning Progress (0 / ?)
+
 # Prerequisites
 
-| Course | Status | Start Date | Finish Date | 
--------- | ------ | ---------- | ----------- |
- [High School Math Review](https://www.khanacademy.org/math/high-school-math) | In Progress | 01.06.2020 | ---
- [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | --- | --- | ---
- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | --- | --- | ---
+| Course | Status |  
+-------- | ------ |
+ [High School Math Review](https://www.khanacademy.org/math/high-school-math) | --- |
+ [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | --- | 
+ [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | --- |
 
-# Introductory Courses
+# Intro Computer Science
 
-## Introduction to Programming & Computer Science
+## Introduction to Programming
 
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
-[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | Completed | Feb. 25th 2020 | Jun. 8th 2020 | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
-[Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) | --- | --- | --- | ---
-[Python for Everybody Specialization](https://www.coursera.org/specializations/python) | In Progress | 01.06.2020 | --- | [Python for Everybody Specialization](https://github.com/iamieht/Python-for-Everybody-Specialization)
+| Course | Status | 
+-------- | ------ |
+[Programming for Everybody (Python for Everybody - Course 1)](https://www.coursera.org/learn/python?specialization=python) | --- |
+[Python Data Structures (Python for Everybody - Course 2)](https://www.coursera.org/learn/python-data?specialization=python) | --- |
+[Using Python to Access Web Data (Python for Everybody - Course 3)](https://www.coursera.org/learn/python-network-data?specialization=python) | --- |
+[Using Databases with Python (Python for Everybody - Course 4)](https://www.coursera.org/learn/python-databases?specialization=python) | --- |
+
+## Introduction to Computer Science
+| Course | Status | 
+-------- | ------ |
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | --- |
+[Python Programming Essentials (Introduction to Scripting in Python - Course 1)](https://www.coursera.org/learn/python-programming?specialization=introduction-scripting-in-python) | --- |
+[Python Data Representations (Introduction to Scripting in Python - Course 2)](https://www.coursera.org/learn/python-representation?specialization=introduction-scripting-in-python) | --- |
+[Python Data Analysis (Introduction to Scripting in Python - Course 3)](https://www.coursera.org/learn/python-analysis?specialization=introduction-scripting-in-python) | --- |
+[Python Data Visualization (Introduction to Scripting in Python - Course 4)](https://www.coursera.org/learn/python-visualization?specialization=introduction-scripting-in-python) | --- |
 [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
 
 ## Math Preparation
